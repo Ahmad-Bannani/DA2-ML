@@ -13,8 +13,13 @@ Key Steps
 
 
 ### Model Evaluation
-We evaluated the model’s performance on various metrics:
-![Confusion Matrix](/workspaces/DA2-L1/graphs/IMG_7108.png)
+
+![Confusion Matrix](graphs/IMG_7108.png)
+
+
+### Exploring Better Solutions
+
+While the Naive Bayes classifier achieved an accuracy of 70%, which is a decent baseline, there was potential to improve the results with a more robust model. By implementing a **Random Forest classifier**, the accuracy significantly increased to **92%**, demonstrating its superior performance for this task.
 
 Project Outcomes
 
@@ -30,11 +35,15 @@ Key Steps
 	•	Frequent Itemsets: Use algorithms like Apriori to identify itemsets that appear together.
 	•	Association Rules: Generate rules showing relationships between items.
 
+ ### Project findings
+
+![Confusion Matrix](graphs/IMG_7107.png)
+
 Project Outcomes
 
 The findings provide valuable insights into customer purchasing behavior, aiding businesses in optimizing product offerings and improving customer satisfaction.
 
-3. Spam Email Analysis and Word Cloud Visualization
+# 3. Spam Email Analysis and Word Cloud Visualization
 
 This project analyzes spam emails to identify patterns and visualize common terms using a word cloud. Insights gained from this can help improve spam detection systems.
 
@@ -43,6 +52,10 @@ Key Steps
 	•	Data Preprocessing: Clean and prepare the email dataset.
 	•	Spam Detection: Build a classification model to separate spam from non-spam emails.
 	•	Visualization: Create a word cloud of the most frequent terms in spam emails.
+
+ ### Findings
+
+![Confusion Matrix](graphs/IMG_7109.png)
 
 Project Outcomes
 
