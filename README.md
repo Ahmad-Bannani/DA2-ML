@@ -25,7 +25,7 @@ Project Outcomes
 
 This analysis develops a model to detect spam emails, contributing to more effective email filtering solutions.
 
-2. Market Basket Analysis
+# 2. Market Basket Analysis
 
 In this project, we conduct market basket analysis to uncover patterns in transaction data. By identifying frequent itemsets and association rules, this analysis provides insights into products frequently bought together, which can drive data-driven strategies in marketing, inventory, and recommendations.
 
