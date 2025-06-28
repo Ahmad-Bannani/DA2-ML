@@ -26,7 +26,7 @@ Project Outcomes
 This analysis develops a model to detect spam emails, contributing to more effective email filtering solutions.
 
 
-# 2. Spam Email Analysis and Word Cloud Visualization
+# 2. Spam Email Word Cloud Visualization
 
 This project analyzes spam emails to identify patterns and visualize common terms using a word cloud. Insights gained from this can help improve spam detection systems.
 
