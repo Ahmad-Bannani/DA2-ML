@@ -25,7 +25,26 @@ Project Outcomes
 
 This analysis develops a model to detect spam emails, contributing to more effective email filtering solutions.
 
-# 2. Market Basket Analysis
+
+# 2. Spam Email Analysis and Word Cloud Visualization
+
+This project analyzes spam emails to identify patterns and visualize common terms using a word cloud. Insights gained from this can help improve spam detection systems.
+
+Key Steps
+
+	•	Data Preprocessing: Clean and prepare the email dataset.
+	•	Spam Detection: Build a classification model to separate spam from non-spam emails.
+	•	Visualization: Create a word cloud of the most frequent terms in spam emails.
+
+ ### Findings
+
+![Confusion Matrix](graphs/IMG_7109.png)
+
+Project Outcomes
+
+The analysis reveals frequent words and phrases in spam emails, providing a foundation for more advanced spam filtering algorithms.
+
+# 3. Market Basket Analysis
 
 In this project, we conduct market basket analysis to uncover patterns in transaction data. By identifying frequent itemsets and association rules, this analysis provides insights into products frequently bought together, which can drive data-driven strategies in marketing, inventory, and recommendations.
 
@@ -43,20 +62,3 @@ Project Outcomes
 
 The findings provide valuable insights into customer purchasing behavior, aiding businesses in optimizing product offerings and improving customer satisfaction.
 
-# 3. Spam Email Analysis and Word Cloud Visualization
-
-This project analyzes spam emails to identify patterns and visualize common terms using a word cloud. Insights gained from this can help improve spam detection systems.
-
-Key Steps
-
-	•	Data Preprocessing: Clean and prepare the email dataset.
-	•	Spam Detection: Build a classification model to separate spam from non-spam emails.
-	•	Visualization: Create a word cloud of the most frequent terms in spam emails.
-
- ### Findings
-
-![Confusion Matrix](graphs/IMG_7109.png)
-
-Project Outcomes
-
-The analysis reveals frequent words and phrases in spam emails, providing a foundation for more advanced spam filtering algorithms.
